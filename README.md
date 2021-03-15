@@ -32,3 +32,7 @@
 - [ ] [Terraform Course - Automate your AWS cloud infrastructure](https://www.youtube.com/watch?v=SLB_c_ayRMo)
 - [x] [Learn Terraform in 10 Minutes Tutorial](https://www.youtube.com/watch?v=UleogrJkZn0)
 - [x] [Terraform Explained](https://www.youtube.com/watch?v=HmxkYNv1ksg)
+- [x] [A Beginner's Guide to Terraform](https://www.linode.com/docs/guides/beginners-guide-to-terraform/)
+- [x] [Introduction to HashiCorp Configuration Language (HCL)](https://www.linode.com/docs/guides/introduction-to-hcl/)
+- [x] [Use Terraform to Provision Linode Environments](https://www.linode.com/docs/guides/how-to-build-your-infrastructure-using-terraform-and-linode/)
+
