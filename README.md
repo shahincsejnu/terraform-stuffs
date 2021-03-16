@@ -78,4 +78,12 @@
 - [x] [Introduction to HashiCorp Configuration Language (HCL)](https://www.linode.com/docs/guides/introduction-to-hcl/)
 - [x] [Use Terraform to Provision Linode Environments](https://www.linode.com/docs/guides/how-to-build-your-infrastructure-using-terraform-and-linode/)
 - [ ] [Linode Resources Description](https://registry.terraform.io/providers/linode/linode/latest/docs/resources/instance)
+<<<<<<< HEAD
 - [ ] [Terraform Commands](https://www.terraform.io/docs/cli/commands/index.html)
+=======
+- [x] [HCL necessary syntex](https://www.terraform.io/docs/language/syntax/configuration.html)
+- [ ] [HCL official repo](https://github.com/hashicorp/hcl)
+- [ ] [HCL Native Syntax Specification](https://github.com/hashicorp/hcl/blob/main/hclsyntax/spec.md) 
+- [ ] [Terraform Language Documentation](https://www.terraform.io/docs/language/index.html)
+- [ ] [Create a Terraform Module](https://www.linode.com/docs/guides/create-terraform-module)
+>>>>>>> 20b87d7cdae430e4d946f5f5514ac7e65ad2c5e3
