@@ -84,3 +84,6 @@
 - [ ] [HCL Native Syntax Specification](https://github.com/hashicorp/hcl/blob/main/hclsyntax/spec.md) 
 - [ ] [Terraform Language Documentation](https://www.terraform.io/docs/language/index.html)
 - [ ] [Create a Terraform Module](https://www.linode.com/docs/guides/create-terraform-module)
+- [x] [Provisioners](https://www.youtube.com/watch?v=uPKwNPomeJo)
+- [ ] [Provisioners doc](https://www.terraform.io/docs/language/resources/provisioners/syntax.html)
+
