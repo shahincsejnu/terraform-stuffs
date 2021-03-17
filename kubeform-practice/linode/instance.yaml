@@ -1,0 +1,12 @@
+apiVersion: linode.kubeform.com/v1alpha1
+kind: Instance
+metadata:
+  name: test-instance
+spec:
+  region: us-east
+  image: linode/ubuntu18.04
+  label: test-kubeform
+  providerRef:
+    name: linode-provider
+  secretRef:
+    name: data-secret

@@ -82,8 +82,9 @@
 - [x] [HCL necessary syntex](https://www.terraform.io/docs/language/syntax/configuration.html)
 - [ ] [HCL official repo](https://github.com/hashicorp/hcl)
 - [ ] [HCL Native Syntax Specification](https://github.com/hashicorp/hcl/blob/main/hclsyntax/spec.md) 
-- [ ] [Terraform Language Documentation](https://www.terraform.io/docs/language/index.html)
+- [ ] [Terraform Language Documentation](https://www.terraform.io/docs/language/index.html)          # need to go through this full doc in future
 - [ ] [Create a Terraform Module](https://www.linode.com/docs/guides/create-terraform-module)
 - [x] [Provisioners](https://www.youtube.com/watch?v=uPKwNPomeJo)
 - [ ] [Provisioners doc](https://www.terraform.io/docs/language/resources/provisioners/syntax.html)
-
+- [x] [Terraform Types and values](https://www.terraform.io/docs/language/expressions/types.html)
+- [ ] [Terraform Data Source](https://registry.terraform.io/providers/linode/linode/latest/docs/data-sources/account)
