@@ -88,3 +88,10 @@
 - [ ] [Provisioners doc](https://www.terraform.io/docs/language/resources/provisioners/syntax.html)
 - [x] [Terraform Types and values](https://www.terraform.io/docs/language/expressions/types.html)
 - [ ] [Terraform Data Source](https://registry.terraform.io/providers/linode/linode/latest/docs/data-sources/account)
+- [ ] [Extending Terraform](https://www.terraform.io/docs/extend/schemas/index.html)  # will need this one
+- [x] [Terraform Schemas](https://www.terraform.io/docs/extend/schemas/index.html)
+- [ ] [Call APIs with Terraform Providers](https://learn.hashicorp.com/collections/terraform/providers)
+- [ ] [State](https://www.terraform.io/docs/language/state/index.html)
+- [x] [How Terraform Works](https://www.terraform.io/docs/extend/how-terraform-works.html) 
+- [x] [Secrets Management with Terraform](https://www.linode.com/docs/guides/secrets-management-with-terraform/)
+- [x] [Create a Terraform Module](https://www.linode.com/docs/guides/create-terraform-module/)
