@@ -16,3 +16,9 @@ variable "token" {}
 data "linode_account" "sahadat_account" {} 
 
 # will store the data in the terraform.tfstate
+
+
+# print here as output
+output "test" {
+    value = data.linode_account.sahadat_account
+}

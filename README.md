@@ -95,3 +95,7 @@
 - [x] [How Terraform Works](https://www.terraform.io/docs/extend/how-terraform-works.html) 
 - [x] [Secrets Management with Terraform](https://www.linode.com/docs/guides/secrets-management-with-terraform/)
 - [x] [Create a Terraform Module](https://www.linode.com/docs/guides/create-terraform-module/)
+- [ ] [Create a Linode StackScripts Module](https://www.linode.com/docs/guides/create-terraform-module/)
+- [x] [Getting Started with the Linode API](https://www.linode.com/docs/guides/getting-started-with-the-linode-api/)
+- [ ] [Data Sources | Terraform Tutoria](https://www.youtube.com/watch?v=9cDDZzl7zow)
+- [ ] [Terraform variables | Data Sources | Terraform Loops](https://www.youtube.com/watch?v=9ck6LaBy-W8)
