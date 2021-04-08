@@ -99,3 +99,4 @@
 - [x] [Getting Started with the Linode API](https://www.linode.com/docs/guides/getting-started-with-the-linode-api/)
 - [x] [Data Sources | Terraform Tutoria](https://www.youtube.com/watch?v=9cDDZzl7zow)
 - [x] [Terraform variables | Data Sources | Terraform Loops](https://www.youtube.com/watch?v=9ck6LaBy-W8)
+- [ ] [Learn Terraform State in 10 Minutes](https://www.youtube.com/watch?v=yhLrH0Q-kq4)
