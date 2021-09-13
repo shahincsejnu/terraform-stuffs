@@ -22,12 +22,20 @@ terraform {
     key = "kubeform/example-1/terraform.tfstate"
     region = "us-east-2"
     encrypt = true
+
   }
 }
+//terraform {
+//  backend "remote" {
+//    hostname = ""
+//    organization = ""
+//    token = ""
+//  }
+//}
 
 resource "aws_s3_bucket" "terraform-state" {
   bucket = "terraform-remote-backend-kubeform"
-  force_destroy = true
+
   versioning {
     enabled = true
   }
